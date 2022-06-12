@@ -1,0 +1,86 @@
+h1
+{
+text-align: center;
+font-family: arial;
+font-style: italic;
+color: #8E518D;
+}
+.tabela 
+{
+border-style: groove;
+border-width: 4px;
+margin-left: 15%;
+border-color: #C86FC9;
+}
+p
+{
+text-align: center;
+}
+td
+{
+width: 100px;
+}
+.tak
+{
+text-align: center;
+}
+.nie
+{
+float: right;
+}
+#sala
+{
+margin-left: 5%;
+}
+#slon
+{
+margin-left: 8.5%;
+}
+#stru
+{
+margin-left: 4%;
+}
+#waz1
+{
+margin-left: 9%;
+}
+@media screen and (max-width: 600px) 
+{
+.k1
+{
+display: none;
+}
+.k2
+{
+display: none;
+}
+.k3
+{
+display: none;
+}
+.k4
+{
+display: none;
+}
+.k5
+{
+display: none;
+}
+.k6
+{
+display: none;  
+}
+.k7
+{
+display: none; 
+}
+}
+@media screen and (max-width: 1200px)
+{
+.tabela
+{
+display: none;
+}
+}
+
+
